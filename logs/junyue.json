@@ -1,0 +1,14 @@
+{
+    "ask_template": "您是想问 '{Disease}' 要做什么检查吗？", 
+    "cql_template": "MATCH(p:疾病)-[r:need_check]->(q:检查) WHERE p.name='{Disease}' RETURN q.name", 
+    "deny_response": "您说的我有点不明白，您可以换个问法问我哦~", 
+    "intent_strategy": "deny", 
+    "replay_answer": "您说的我有点不明白，您可以换个问法问我哦~", 
+    "reply_template": "得了 '{Disease}' 需要做以下检查：\n", 
+    "slot_list": [
+        "Disease"
+    ], 
+    "slot_values": {
+        "Disease": null
+    }
+}

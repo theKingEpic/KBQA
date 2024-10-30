@@ -1,0 +1,46 @@
+2023-02-06 21:51:33.794 wxauto.py[274] GetLastMessage -> Find Control Timeout(1.0s): {Name: '消息', ControlType: ListControl}
+2023-02-06 21:55:26.768 wxauto.py[274] GetLastMessage -> Find Control Timeout(1.0s): {Name: '消息', ControlType: ListControl}
+2023-02-06 21:56:02.207 wxauto.py[274] GetLastMessage -> Find Control Timeout(1.0s): {Name: '消息', ControlType: ListControl}
+2023-02-06 21:57:34.326 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 21:57:34.356 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 21:59:06.972 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:05:53.037 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:05:53.070 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:12:34.631 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:12:34.666 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:27:54.643 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:27:54.681 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:27:54.714 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:30:47.047 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:30:47.085 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:30:47.117 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:33:38.318 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:33:38.441 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-06 22:43:05.432 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 17:28:28.786 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 17:30:35.542 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 17:34:08.392 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 17:35:03.776 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 17:35:26.050 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 17:36:32.656 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 17:38:14.538 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 17:42:04.103 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 17:46:00.528 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 17:47:05.163 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 18:11:53.736 wxauto.py[274] GetLastMessage -> Find Control Timeout(1.0s): {Name: '消息', ControlType: ListControl}
+2023-02-22 18:14:58.360 wxauto.py[265] GetAllMessage -> Find Control Timeout(10s): {Name: '消息', ControlType: ListControl}
+2023-02-22 18:15:25.738 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-02-22 19:03:17.099 wxauto.py[274] GetLastMessage -> Find Control Timeout(1.0s): {Name: '消息', ControlType: ListControl}
+2023-05-04 18:33:22.228 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-05-04 18:42:11.992 wxauto.py[274] GetLastMessage -> Find Control Timeout(1.0s): {Name: '消息', ControlType: ListControl}
+2023-05-04 19:13:47.813 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-05-04 19:15:59.101 wxauto.py[274] GetLastMessage -> Find Control Timeout(1.0s): {Name: '消息', ControlType: ListControl}
+2023-05-04 19:21:34.973 wxauto.py[48] SplitMessage -> Find Control Timeout(0s): {ControlType: ButtonControl}
+2023-11-27 09:48:19.165 wxauto.py[274] GetLastMessage -> Find Control Timeout(1.0s): {Name: '消息', ControlType: ListControl}
+2023-11-27 09:48:49.003 wxauto.py[210] SendMsg -> Find Control Timeout(10.0s): {Name: '输入', ControlType: EditControl}
+2023-11-27 09:50:49.382 wxauto.py[210] SendMsg -> Find Control Timeout(10.0s): {Name: '输入', ControlType: EditControl}
+2023-11-27 09:51:23.400 wxauto.py[210] SendMsg -> Find Control Timeout(10.0s): {Name: '输入', ControlType: EditControl}
+2023-11-27 09:53:37.072 wxauto.py[210] SendMsg -> Find Control Timeout(10.0s): {Name: '输入', ControlType: EditControl}
+2023-11-27 09:58:16.083 wxauto.py[210] SendMsg -> Find Control Timeout(10s): {Name: '输入', ControlType: EditControl}
+2023-11-27 09:58:52.059 wxauto.py[210] SendMsg -> Find Control Timeout(10s): {Name: '输入', ControlType: EditControl}
+2023-11-27 10:14:03.364 wxauto.py[57] SplitMessage -> 
